@@ -1,1 +1,1 @@
-# 2026_scouting_website
+# 2026 Scouting Website
